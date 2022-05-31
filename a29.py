@@ -1,0 +1,12 @@
+a1=int(input("First Number is:"))
+a2=int(input("Second Number is:"))
+a3=int(input("Third Number is:"))
+a4=int(input("Fourth Number is:"))
+a5=int(input("Fifth Number is:"))
+a6=int(input("Sixth Number is:"))
+a7=int(input("Seventh Number is:"))
+a8=int(input("Eigth Number is:"))
+a9=int(input("Ninth Number is:"))
+a10=int(input("Tenth Number is:"))
+avg=(a1+a2+a3+a4+a5+a6+a7+a8+a9+a10)/10
+print(avg)
